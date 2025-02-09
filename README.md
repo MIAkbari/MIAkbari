@@ -17,7 +17,7 @@
 ### 📫 Let's Connect:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-MohammadAkbari-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/risanex/) 
 [![GitHub](https://img.shields.io/badge/GitHub-mohammadakbari-black?style=flat&logo=github)](https://github.com/MIAkbari)
-[![Website](https://img.shields.io/badge/Portfolio-Visit-lightgrey?style=flat&logo=wordpress)]([https://yourwebsite.com](https://www.instagram.com/akbaricodes/))
+[![Instagram](https://img.shields.io/badge/Portfolio-Visit-lightgrey?style=flat&logo=wordpress)]([https://yourwebsite.com](https://www.instagram.com/akbaricodes/))
 
 ---
 
