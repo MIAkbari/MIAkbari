@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 Hi, I'm Mohammad Akbari!
 
-<!--
-**MIAkbari/MIAkbari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 iOS Developer | Swift & SwiftUI Expert | Clean Code Enthusiast
 
-Here are some ideas to get you started:
+### 🔥 About Me:
+- 📱 7+ years of experience in iOS development
+- 🎯 Specialized in **Swift, SwiftUI, UIKit, and Clean Architecture**
+- 📈 Passionate about **high-performance and scalable apps**
+- 📂 Open-source contributor & mentor
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📌 My Tech Stack:
+- 💻 **Languages:** Swift, Objective-C
+- 🏗 **Frameworks:** SwiftUI, UIKit, CoreData, Combine
+- 🚀 **Architecture:** MVVM, VIPER, Clean Architecture
+- 🛠 **Tools:** Xcode, Fastlane, GitHub Actions, Firebase
+
+### 📫 Let's Connect:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-MohammadAkbari-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/risanex/) 
+[![GitHub](https://img.shields.io/badge/GitHub-mohammadakbari-black?style=flat&logo=github)](https://github.com/MIAkbari)
+[![Website](https://img.shields.io/badge/Portfolio-Visit-lightgrey?style=flat&logo=wordpress)]([https://yourwebsite.com](https://www.instagram.com/akbaricodes/))
+
+---
+
+💡 _"Passionate about building impactful applications that solve real-world problems."_ 🚀
