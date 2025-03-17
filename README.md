@@ -10,9 +10,9 @@
 
 ### 📌 My Tech Stack:
 - 💻 **Languages:** Swift, Objective-C
-- 🏗 **Frameworks:** SwiftUI, UIKit, CoreData, Combine
-- 🚀 **Architecture:** MVVM, VIPER, Clean Architecture
-- 🛠 **Tools:** Xcode, Fastlane, GitHub Actions, Firebase
+- 🏗 **Frameworks:** SwiftUI, UIKit, Storage, Combine
+- 🚀 **Architecture:** MVVM, Clean Architecture, VIPER
+- 🛠 **Tools:** Xcode, Fastlane, GitHub Actions
 
 ### 📫 Let's Connect:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-MohammadAkbari-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/risanex/) 
