@@ -3,7 +3,7 @@
 🚀 iOS Developer | Swift & SwiftUI Expert | Clean Code Enthusiast
 
 ### 🔥 About Me:
-- 📱 7+ years of experience in iOS development
+- 📱 8+ years of experience in iOS development
 - 🎯 Specialized in **Swift, SwiftUI, UIKit, and Clean Architecture**
 - 📈 Passionate about **high-performance and scalable apps**
 - 📂 Open-source contributor & mentor
