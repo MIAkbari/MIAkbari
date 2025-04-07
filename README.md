@@ -3,7 +3,6 @@
 🚀 iOS Developer | Swift & SwiftUI Expert | Clean Code Enthusiast
 
 ### 🔥 About Me:
-- 📱 Experience in iOS development
 - 🎯 Specialized in **Swift, SwiftUI, UIKit, and Clean Architecture**
 - 📈 Passionate about **high-performance and scalable apps**
 - 📂 Open-source contributor & mentor
